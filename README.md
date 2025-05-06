@@ -82,8 +82,7 @@ This repository contains the code and documentation for a data warehousing and d
 
 ## Dataset Information
 
-*   **Source:** Online Retail II UCI Dataset (Chen, 2019) - https://doi.org/10.24432/C5MW4B
-*   **Accessed Via:** [Mention Kaggle link if used, e.g., Kaggle]
+*   **Source:** Online Retail II UCI Dataset (Chen, 2019) - Kaggle. https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 *   **Description:** Transactional data from a UK-based online giftware retailer (Dec 2009 - Dec 2011).
 *   **Key Cleaning Steps:** Handled cancelled orders, missing CustomerIDs, non-product StockCodes, invalid quantities/prices.
 
